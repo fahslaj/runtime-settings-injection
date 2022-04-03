@@ -1,5 +1,5 @@
 {
-  "apiUrl": "https://dev.my-domain.net/",
-  "authServerUrl": "https://dev.my-domain.net/",
+  "apiUrl": "https://jsonplaceholder.typicode.com",
+  "authServerUrl": "https://auth.my-domain.net/",
   "loggingKey": "some-logging-key"
 }
